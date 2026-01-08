@@ -1,5 +1,10 @@
 # botanical-protocal-monorepo
 
+<img width="1478" height="615" alt="image" src="https://github.com/user-attachments/assets/46e1dc49-9dcb-46fd-85da-cd0822d1515d" />
+<p align="center">
+  <em>Thung Krai Forest, Thailand picture from https://botany.dnp.go.th/garden/index.html</em>
+</p>
+
 ## Directory Structure
 <pre>
 ├── <a href="./botanical-garden">garden</a>: An application specific blockchain
