@@ -5,7 +5,12 @@
   <em>Thung Krai Forest, Thailand picture from https://botany.dnp.go.th/garden/index.html</em>
 </p>
 
+## Project Overview
+
+<!-- TODO -->
+
 ## Directory Structure
+
 <pre>
 ├── <a href="./botanical-garden">garden</a>: An application specific blockchain
 ├── <a href="./botanical-ranger">ranger</a>: Compliance
