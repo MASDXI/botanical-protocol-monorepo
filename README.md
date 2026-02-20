@@ -1,4 +1,4 @@
-# botanical-protocal-monorepo
+# botanical-protocol-monorepo
 
 <img width="1478" height="615" alt="image" src="https://github.com/user-attachments/assets/46e1dc49-9dcb-46fd-85da-cd0822d1515d" />
 <p align="center">
