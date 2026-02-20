@@ -9,7 +9,7 @@
 <pre>
 ├── <a href="./botanical-garden">garden</a>: An application specific blockchain
 ├── <a href="./botanical-ranger">ranger</a>: Compliance
-├── <a href="./botanical-ranger">canopy</a>: Monitoring
+├── <a href="./botanical-canopy">canopy</a>: Monitoring
 ├── <a href="./botanical-leaf">leaf</a>: Lowest Exposure Asset First (LEAF)
 ├── <a href="./docs">docs</a>: documents
 </pre>
