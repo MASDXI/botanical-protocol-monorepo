@@ -12,11 +12,11 @@
 ## Directory Structure
 
 <pre>
-├── <a href="./botanical-garden">garden</a>: An application specific blockchain
+├── <a href="./botanical-garden">garden</a>: An application specific blockchain.
+├── <a href="./botanical-canopy">canopy</a>: Block Explorer and network monitoring.
+├── <a href="./botanical-leaf">leaf</a>: Lowest Exposure Asset First (LEAF) coin selection algorithm.
+├── <a href="./botanical-moss">moss</a>: Message-driven for off-chain consolidation of spendable balances.
 ├── <a href="./botanical-ranger">ranger</a>: Compliance
-├── <a href="./botanical-canopy">canopy</a>: Monitoring
-├── <a href="./botanical-leaf">leaf</a>: Lowest Exposure Asset First (LEAF)
-├── <a href="./docs">docs</a>: documents
 </pre>
 
 ## License
